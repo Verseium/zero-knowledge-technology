@@ -1,5 +1,7 @@
 # zero-knowledge-technology
-Learn about zero knowledge
+Learn about zero knowledge in the world of verseium
+
+![Versemyst map](https://github.com/Verseium/zero-knowledge-technology/blob/main/images/verseium_backstory.png)
 
 # Zero-Knowledge Proofs Course Outline
 
