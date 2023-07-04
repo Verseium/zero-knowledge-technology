@@ -53,7 +53,7 @@ Learn about zero knowledge
 - Open problems and future directions. 🧭
 - Practical considerations and limitations. ⚙️❌
 
-| - | - | - |
+
 | Day | Content | Reamrks |
 | - | - | - |
 | 0 | [Back Story](https://github.com/Verseium/zero-knowledge-technology/blob/main/backstory.md) | |
