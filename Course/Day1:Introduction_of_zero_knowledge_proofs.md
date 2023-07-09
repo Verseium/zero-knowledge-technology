@@ -58,3 +58,30 @@ It is through this dance of interaction and trust that we can convince others of
 The Guardians feel a surge of excitement and purpose. They comprehend that mastering Zero-Knowledge Proofs will be the key to unlocking the full potential of the Verseium and ensuring its power is wielded responsibly. With this knowledge, they are equipped to continue their journey, unraveling the depths of Zero-Knowledge Proofs and safeguarding the Verseium from those who would misuse it.
 
 
+## Mathmetical Example
+
+The protocol for the zero-knowledge proof works as follows:
+
+1. Alice chooses a random number, x.
+2. She computes y = 13x.
+3. She sends y to Bob.
+4. Bob checks that y is divisible by 13. If it is not, he rejects the proof. Otherwise, he proceeds to the next step.
+5. Bob asks Alice to prove that she knows x. Alice does this by performing the following calculation:
+
+```
+z = y - 13x
+```
+
+6. Alice sends z to Bob.
+7. Bob checks that z is 0. If it is, he accepts the proof. Otherwise, he rejects it.
+
+
+In this example, Alice does not reveal the secret number 13 to Bob at any point in the protocol. However, Bob is able to verify that Alice knows the number, by checking that her calculations are correct. This is an example of a zero-knowledge proof, because Bob learns nothing about the secret number 13, other than the fact that Alice knows it.
+
+To understand why this is a zero-knowledge proof, consider what would happen if Alice did not know the secret number 13. In this case, she would not be able to calculate z correctly. Bob would then be able to reject the proof, even though Alice would have successfully convinced him that she knows the secret number.
+
+This shows that Alice must actually know the secret number in order to pass the zero-knowledge proof. However, Bob does not learn anything about the secret number, other than the fact that Alice knows it. This is why the proof is called "zero-knowledge".
+
+
+
+
