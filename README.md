@@ -59,4 +59,4 @@ Learn about zero knowledge in the world of verseium
 | Day | Content | Reamrks |
 | - | - | - |
 | 0 | [Back Story](https://github.com/Verseium/zero-knowledge-technology/blob/main/backstory.md) | Start of the story |
-| 1 | [Introduction and basic concepts](https://github.com/Verseium/zero-knowledge-technology/blob/main/Course/Day1%3AIntroduction_of_zero_knowledge_proofs) | Basic concepts -> Prover, Verifier, Statement, Proof, Claim, Challenge |
+| 1 | [Introduction and basic concepts](https://github.com/Verseium/zero-knowledge-technology/blob/main/Course/Day1%3AIntroduction_of_zero_knowledge_proofs.md) | Basic concepts -> Prover, Verifier, Statement, Proof, Claim, Challenge |
