@@ -57,8 +57,37 @@ It is through this dance of interaction and trust that we can convince others of
 
 The Guardians feel a surge of excitement and purpose. They comprehend that mastering Zero-Knowledge Proofs will be the key to unlocking the full potential of the Verseium and ensuring its power is wielded responsibly. With this knowledge, they are equipped to continue their journey, unraveling the depths of Zero-Knowledge Proofs and safeguarding the Verseium from those who would misuse it.
 
+## Primer on witness
 
-## Mathmetical Example
+A witness, in the context of Zero-Knowledge Proofs, is additional information or evidence that can be provided by the prover to convince the verifier of the truthfulness of the statement being proven. The witness is not the secret knowledge itself but can be related to it.
+
+In a Zero-Knowledge Proof, the prover aims to convince the verifier that they possess knowledge of a statement's truth without revealing the actual secret information. The witness serves as supporting evidence that the prover possesses this knowledge.
+
+To illustrate this concept, let's continue our story in the realm of Versemyst:
+
+As the Guardians of Lumos delve deeper into their studies of Zero-Knowledge Proofs, the Archmage enlightens them about the significance of witnesses in the proof process.
+
+"Witnesses," the Archmage explains, "are like the guardians of knowledge within a Zero-Knowledge Proof. They provide additional evidence that strengthens the prover's claim without exposing the secret information directly."
+
+The Guardians listen intently, their curiosity piqued by this new dimension of understanding.
+
+"For example," the Archmage continues, "let's imagine a Zero-Knowledge Proof where the prover wishes to demonstrate knowledge of a hidden inscription. The statement could be about the location of a hidden chamber or the unlocking of a mystical artifact. The witness, in this case, could be an ancient key or a specific incantation known only to the prover."
+
+The Guardians envision the scene, picturing a wizard holding an ornate key or chanting an arcane phrase, further bolstering the credibility of the proof.
+
+"The witness," the Archmage emphasizes, "is not the secret information itself but serves as supporting evidence, reinforcing the prover's knowledge and building trust with the verifier."
+
+The Guardians nod in understanding, recognizing the importance of witnesses in the intricate dance of Zero-Knowledge Proofs.
+
+"Remember," the Archmage concludes, "the witness, along with the statement, challenge, and secret knowledge, contributes to the holistic proof, providing a more compelling case while maintaining the confidentiality of the actual secret information."
+
+Empowered with this knowledge, the Guardians continue their studies, now aware of the role witnesses play in the tapestry of Zero-Knowledge Proofs. They delve into deeper realms of cryptography, uncovering more intricate techniques and protocols to protect the Verseium's secrets.
+
+Armed with their understanding of witnesses, the Guardians are prepared to employ these additional elements within their proofs, further enhancing the strength and trustworthiness of their assertions. They recognize that witnesses bring an additional layer of assurance, allowing them to convince verifiers without compromising the secrecy of the Verseium's hidden knowledge.
+
+And so, the Guardians of Lumos embark on a journey to explore the realms of witnesses, armed with their newfound understanding of Zero-Knowledge Proofs. With each step, they strengthen their grasp on the delicate balance between proof and confidentiality, ensuring that the Verseium's secrets remain safeguarded and its power remains wielded responsibly.
+
+## Mathematical Example
 
 The protocol for the zero-knowledge proof works as follows:
 
